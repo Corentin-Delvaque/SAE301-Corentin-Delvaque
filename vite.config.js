@@ -3,7 +3,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [tailwindcss()],
-  base: "/Initialisation_Tailwind",
+  base: "/SAE301-Corentin-Delvaque",
 });
 
 //npm install
